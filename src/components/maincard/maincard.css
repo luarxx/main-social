@@ -1,0 +1,10 @@
+.maincard {
+  background-color: aqua;
+  margin: 0 auto;
+  max-width: 40vh;
+  max-height: 90vh;
+  position: relative;
+  top: 100px;
+  border-radius: 10px;
+  background-color: var(--Dark-Grey);
+}

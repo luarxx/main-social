@@ -1,4 +1,5 @@
 import React from 'react';
+import Avatar from '../src/assets/images/avatar-jessica.jpeg';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
